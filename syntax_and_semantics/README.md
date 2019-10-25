@@ -1,6 +1,6 @@
 # Syntax and Semantics
 
-The program’s source code must be encoded in UTF-8.
+The source code of a crystal program must be encoded in UTF-8. Crystal is case-sensitive.
 
 * [Comments](comments.html)
 * [Literals](literals.html)
